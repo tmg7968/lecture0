@@ -1,4 +1,0 @@
-Hello world
-this is some new text
-and more new text
-hello again
